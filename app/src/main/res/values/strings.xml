@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BikeShareGPS</string>
+    <string name="headline">Last added:</string>
+    <string name="ride_add">Add ride</string>
+    <string name="ride_start">Start ride</string>
+    <string name="ride_end">End ride</string>
+    <string name="list_rides">Get rides from server</string>
+    <string name="register_bike">Save</string>
+    <string name="register">Register</string>
+    <string name="bike_name">Bike Name</string>
+    <string name="bike_type">Type</string>
+    <string name="bike_id">Bike ID</string>
+    <string name="bike_price">Price per day</string>
+    <string name="what_bike">What bike?</string>
+    <string name="when_bike">When?</string>
+    <string name="where">Where?</string>
+    <string name="endwhere">Ride ends here?</string>
+    <string name="title_activity_find_bike">Map</string>
+    <string name="find_bike">Find Bike</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
+
